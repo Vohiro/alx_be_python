@@ -14,4 +14,4 @@ match operation:
             print("Cannot divide by zero.")
         else:
             result = int(num1) / int(num2)
-print (f"The result is {result}.")
+print(f"The result is {result}.")
