@@ -9,5 +9,5 @@ def perform_operation(num1, num2, operation):
         case "divide":
             if num2 > 0:
                 return num1/num2
-            elif int(num2) == 0:
+            elif num2 == 0:
                 return "Cant be divisible by zero"
